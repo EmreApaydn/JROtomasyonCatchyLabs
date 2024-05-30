@@ -1,0 +1,12 @@
+Created by N100060 on 6.05.2024
+
+This is a concept file with following syntax for each concept.
+# Kullanıcı adı <username> ve şifre ile giriş
+*Css li "div[id='button-1580496494']" elemente tıkla
+*"2" saniye kadar bekle
+*Css li "a[class='btn-user']" elemente tıkla
+*"2" saniye kadar bekle
+*Css li "a[class='btn btn-secondary homeCallLogin secondCallLogin']" elemente tıkla
+*"2" saniye kadar bekle
+*Cssli "input[id='j_username1']" elementi bul ve <username> yaz
+*"2" saniye kadar bekle

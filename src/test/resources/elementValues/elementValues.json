@@ -1,0 +1,70 @@
+[
+  {
+    "key": "LoginButtonFirst",
+    "value": "btnMyAccount",
+    "type": "id"
+  },
+
+  {
+    "key": "CerezleriKabulEt",
+    "value": "button.cc-nb-okagree",
+    "type": "css"
+  },
+
+  {
+    "key": "DropDownLogin",
+    "value": "//a[contains(@href,'&logtab=signin')]",
+    "type": "xpath"
+  },
+
+
+  {
+    "key": "LoginButton",
+    "value": "login-button",
+    "type": "id"
+  },
+
+  {
+    "key": "email",
+    "value": "input#email",
+    "type": "css"
+  },
+
+  {
+    "key": "password",
+    "value": "input#pass",
+    "type": "css"
+  },
+
+  {
+    "key": "forgotpassword",
+    "value": "a.signup-form__forgot",
+    "type": "css"
+  },
+
+  {
+    "key": "HatalıMailUyarısı",
+    "value": "div.alert-danger",
+    "type": "css"
+  },
+
+  {
+    "key": "emailSifreYenileme",
+    "value": "email_forgotPassword",
+    "type": "id"
+  },
+
+  {
+    "key": "SifremiGönder",
+    "value": "button#btn_forgotPassword",
+    "type": "css"
+  },
+
+  {
+    "key": "Basarısız",
+    "value": "returnMessage_ForgotPassword",
+    "type": "id"
+  }
+
+
+]

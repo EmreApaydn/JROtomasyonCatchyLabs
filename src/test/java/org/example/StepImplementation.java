@@ -1,30 +1,15 @@
 package org.example;
 
 import com.thoughtworks.gauge.Step;
-import com.thoughtworks.gauge.Table;
-import com.thoughtworks.gauge.TableRow;
-
-
 import driver.Driver;
 import model.ElementInfo;
-import org.apache.log4j.PropertyConfigurator;
-import org.junit.jupiter.api.Assertions;
+
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.awt.*;
-import java.awt.datatransfer.Clipboard;
-import java.awt.datatransfer.StringSelection;
-import java.awt.event.KeyEvent;
 import java.io.IOException;
-import java.sql.Timestamp;
-import java.util.*;
 import java.util.List;
-import java.util.concurrent.TimeUnit;
-
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class StepImplementation extends Driver {

@@ -1,7 +1,10 @@
 #Home Page
-*Elementine tıkla "CerezleriKabulEt"
-*"2" saniye kadar bekle
-*Elementine tıkla "LoginButtonFirst"
-*"2" saniye kadar bekle
-*Elementine tıkla "DropDownLogin"
-*"2" saniye kadar bekle
+*Elementine tıkla "OpenMoneyTransfer"
+*"1" saniye kadar bekle
+*Elementine tıkla "AddMoney"
+*"1" saniye kadar bekle
+*"1234 1234 1234 1234" textini "CardNumber" elemente yaz
+*"Apaydın" textini "CardHolder" elemente yaz
+*"10/26" textini "ExpiryDate" elemente yaz
+*"110" textini "CCV" elemente yaz
+*"50" textini "Amount" elemente yaz

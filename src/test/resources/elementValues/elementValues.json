@@ -1,70 +1,57 @@
 [
   {
-    "key": "LoginButtonFirst",
-    "value": "btnMyAccount",
-    "type": "id"
-  },
-
-  {
-    "key": "CerezleriKabulEt",
-    "value": "button.cc-nb-okagree",
-    "type": "css"
-  },
-
-  {
-    "key": "DropDownLogin",
-    "value": "//a[contains(@href,'&logtab=signin')]",
+    "key": "EmailBox",
+    "value": "//input[@placeholder='Username']",
     "type": "xpath"
   },
 
+  {
+    "key": "PasswordBox",
+    "value": "//input[@placeholder='Password']",
+    "type": "xpath"
+  },
 
   {
     "key": "LoginButton",
-    "value": "login-button",
-    "type": "id"
+    "value": "//div[text()='Login']",
+    "type": "xpath"
   },
 
   {
-    "key": "email",
-    "value": "input#email",
-    "type": "css"
+    "key": "OpenMoneyTransfer",
+    "value": "//div[text()='Open Money Transfer']",
+    "type": "xpath"
   },
 
   {
-    "key": "password",
-    "value": "input#pass",
-    "type": "css"
+    "key": "AddMoney",
+    "value": "//div[text()='Add money']",
+    "type": "xpath"
   },
-
   {
-    "key": "forgotpassword",
-    "value": "a.signup-form__forgot",
-    "type": "css"
+    "key": "CardNumber",
+    "value": "(//div[@class='css-175oi2r r-13qz1uu']/input)[1]",
+    "type": "xpath"
   },
-
-  {
-    "key": "HatalıMailUyarısı",
-    "value": "div.alert-danger",
-    "type": "css"
+ {
+    "key": "CardHolder",
+    "value": "(//div[@class='css-175oi2r r-13qz1uu']/input)[2]",
+    "type": "xpath"
   },
-
-  {
-    "key": "emailSifreYenileme",
-    "value": "email_forgotPassword",
-    "type": "id"
+ {
+    "key": "ExpiryDate",
+    "value": "(//div[@class='css-175oi2r r-13qz1uu']/input)[3]",
+    "type": "xpath"
   },
-
-  {
-    "key": "SifremiGönder",
-    "value": "button#btn_forgotPassword",
-    "type": "css"
+ {
+    "key": "CCV",
+    "value": "(//div[@class='css-175oi2r r-13qz1uu']/input)[4]",
+    "type": "xpath"
   },
-
-  {
-    "key": "Basarısız",
-    "value": "returnMessage_ForgotPassword",
-    "type": "id"
+ {
+    "key": "Amount",
+    "value": "(//div[@class='css-175oi2r r-13qz1uu']/input)[5]",
+    "type": "xpath"
   }
-
 
 ]

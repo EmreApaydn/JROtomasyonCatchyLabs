@@ -41,7 +41,7 @@ public class Driver {
         options.addArguments("start-maximized");
         driver = new ChromeDriver(options);
         driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
-        driver.navigate().to("https://www.vatanbilgisayar.com");
+        driver.navigate().to("https://webclient.catchylabs.co");
     }
 
     // Close the webDriver instance

@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>VatanBilgisayarGaugeWithJson</artifactId>
+    <artifactId>BankacilikUygulamasi</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>21</java.version>
-        <gauge.version>0.9.1</gauge.version>
+        <gauge.version>0.10.3</gauge.version>
         <selenium.version>3.141.59</selenium.version>
         <gauge.plugin.version>1.4.1</gauge.plugin.version>
         <maven.compiler.version>3.7.0</maven.compiler.version>

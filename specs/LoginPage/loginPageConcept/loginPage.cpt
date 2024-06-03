@@ -1,10 +1,7 @@
 #Login Page
-*"emreapaydn@gmail.com" textini "email" elemente yaz
-*"2" saniye kadar bekle
-*"emre12345" textini "password" elemente yaz
-*"2" saniye kadar bekle
+*"emre.apaydin@testinium.com" textini "EmailBox" elemente yaz
+*"1" saniye kadar bekle
+*"7emre7" textini "PasswordBox" elemente yaz
+*"1" saniye kadar bekle
 *Elementine tıkla "LoginButton"
-*"2" saniye kadar bekle
-*"HatalıMailUyarısı" elementi "Hatalı Mail veya Şifre Girişi !!!" degerini iceriyor mu kontrol et
-*"2" saniye kadar bekle
-*Elementine tıkla "forgotpassword"
+*"1" saniye kadar bekle
